@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OrN3xlix/bc0P+1Uygl7Wss94fe7aqMzODjyVThT/umadEfFo4yn8/rburQwZGgB0IoR4fepW6Y++PKv0Pb0+w==",
+  "dgSpecHash": "XjEnBQa0+SjkNpoZ2ykmzHVLd68GDlm3bS6lcvrUGughmduFjfKkXRI7LxiBCbjHc9B/6z26/7PQcdywEG3lUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 2\\Module\\Modul 335\\Aufgaben\\Umsatzsteuer\\Umsatzsteuer.csproj",
+  "projectFilePath": "C:\\Github\\Umsatzsteuer_berechner\\Umsatzsteuer\\Umsatzsteuer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davud\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\davud\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

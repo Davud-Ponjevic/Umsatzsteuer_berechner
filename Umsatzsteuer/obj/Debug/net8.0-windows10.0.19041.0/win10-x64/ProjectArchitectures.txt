@@ -1,0 +1,1 @@
+C:\Github\Umsatzsteuer_berechner\Umsatzsteuer\Umsatzsteuer.csproj;x64

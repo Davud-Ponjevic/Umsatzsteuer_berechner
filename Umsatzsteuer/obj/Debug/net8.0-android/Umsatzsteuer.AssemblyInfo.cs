@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Umsatzsteuer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0597f502d8e0eeff2431b2dadde7e2545fc1e5a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Umsatzsteuer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Umsatzsteuer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

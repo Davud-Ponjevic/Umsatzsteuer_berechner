@@ -7,22 +7,24 @@
         <!-- Eingabemaske -->
         <Entry x:Name="AmountEntry" Placeholder="Betrag eingeben" Keyboard="Numeric"/>
 
-        <Picker x:Name="TypePicker" Title="Brutto oder Netto">
+        <!-- Umsatzsteuersatz -->
+        <Picker x:Name="TaxRatePicker" Title="Umsatzsteuer in %">
+            <Picker.Items>
+                <x:String>8</x:String>
+                <x:String>3.5</x:String>
+                <x:String>2.5</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <!-- Dropdown für Brutto/Netto -->
+        <Picker x:Name="ModePicker" Title="Modus">
             <Picker.Items>
                 <x:String>Brutto</x:String>
                 <x:String>Netto</x:String>
             </Picker.Items>
         </Picker>
 
-        <Entry x:Name="TaxRateEntry" Placeholder="Umsatzsteuer in %" Keyboard="Numeric"/>
-
+        <!-- Berechnen Button -->
         <Button Text="Berechnen" Clicked="OnCalculateClicked"/>
-
-        <!-- Ergebnisanzeige -->
-        <StackLayout x:Name="ResultStack" IsVisible="False">
-            <Label x:Name="InputAmountLabel"/>
-            <Label x:Name="TaxRateLabel"/>
-            <Label x:Name="ResultLabel"/>
-        </StackLayout>
     </StackLayout>
 </ContentPage>

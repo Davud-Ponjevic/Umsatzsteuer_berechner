@@ -32936,11 +32936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 2\\Module\\Modul 335\\Aufgaben\\Umsatzsteuer\\Umsatzsteuer.csproj",
+      "projectUniqueName": "C:\\Github\\Umsatzsteuer_berechner\\Umsatzsteuer\\Umsatzsteuer.csproj",
       "projectName": "Umsatzsteuer",
-      "projectPath": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 2\\Module\\Modul 335\\Aufgaben\\Umsatzsteuer\\Umsatzsteuer.csproj",
+      "projectPath": "C:\\Github\\Umsatzsteuer_berechner\\Umsatzsteuer\\Umsatzsteuer.csproj",
       "packagesPath": "C:\\Users\\davud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 2\\Module\\Modul 335\\Aufgaben\\Umsatzsteuer\\obj\\",
+      "outputPath": "C:\\Github\\Umsatzsteuer_berechner\\Umsatzsteuer\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
